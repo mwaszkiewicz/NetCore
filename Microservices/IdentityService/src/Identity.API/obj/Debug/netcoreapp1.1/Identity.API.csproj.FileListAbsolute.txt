@@ -1,0 +1,11 @@
+D:\Workspace\net-core\Identity.API\bin\Debug\netcoreapp1.1\Identity.API.deps.json
+D:\Workspace\net-core\Identity.API\bin\Debug\netcoreapp1.1\Identity.API.runtimeconfig.json
+D:\Workspace\net-core\Identity.API\bin\Debug\netcoreapp1.1\Identity.API.runtimeconfig.dev.json
+D:\Workspace\net-core\Identity.API\bin\Debug\netcoreapp1.1\Identity.API.dll
+D:\Workspace\net-core\Identity.API\bin\Debug\netcoreapp1.1\Identity.API.pdb
+D:\Workspace\net-core\Identity.API\obj\Debug\netcoreapp1.1\Identity.API.csprojResolveAssemblyReference.cache
+D:\Workspace\net-core\Identity.API\obj\Debug\netcoreapp1.1\Identity.API.csproj.CoreCompileInputs.cache
+D:\Workspace\net-core\Identity.API\obj\Debug\netcoreapp1.1\Identity.API.AssemblyInfoInputs.cache
+D:\Workspace\net-core\Identity.API\obj\Debug\netcoreapp1.1\Identity.API.AssemblyInfo.cs
+D:\Workspace\net-core\Identity.API\obj\Debug\netcoreapp1.1\Identity.API.dll
+D:\Workspace\net-core\Identity.API\obj\Debug\netcoreapp1.1\Identity.API.pdb
